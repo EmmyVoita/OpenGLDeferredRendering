@@ -1,7 +1,6 @@
 # OpenGLDeferredRendering
 
-This loads OpenGL deferred rendering pipeline loads blend OBJ files to mostly recreate a scene with several items on a table. A deferred rendering pipeline is utilized to implement screen space ambient occlusion. 
-
+This project demonstrates an OpenGL deferred rendering pipeline with the ability to load and render blend OBJ files. It aims to recreate a scene with several items on a table and utilizes screen space ambient occlusion (SSAO) for enhanced visual realism.
 
 ![image](https://github.com/EmmyVoita/OpenGLDeferredRendering/assets/82542924/e2fbda9c-671f-43e6-b917-c1c448d5d951)
 
