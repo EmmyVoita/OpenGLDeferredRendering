@@ -5,14 +5,15 @@ This project demonstrates an OpenGL deferred rendering pipeline with the ability
 ![image](https://github.com/EmmyVoita/OpenGLDeferredRendering/assets/82542924/e2fbda9c-671f-43e6-b917-c1c448d5d951)
 
 
-To run this program you will need everything in the repository. 
-If anything is missing the program will throw an error or a segmentation fault will occur. 
+**Requirements**
+To run this program, you will need all the files provided in the repository. If any files are missing, the program may throw an error or result in a segmentation fault.
 
-To compile, navigate to the download file and run the following command in an application that runs Linux like Ubuntu:
+**Compilation Instructions**
+To compile the project, navigate to the downloaded directory and execute the following command in a Linux-based environment, such as Ubuntu:
 
-g++ DeferredRendering.cpp -o run -lglfw -lGL -lGLEW -lSOIL
+"g++ DeferredRendering.cpp -o run -lglfw -lGL -lGLEW -lSOIL"
 
-How to run:
+**Execution Instructions**
+To run the compiled program, use the following command:
 
-./run
-
+"./run"
